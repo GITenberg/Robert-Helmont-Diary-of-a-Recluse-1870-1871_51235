@@ -1,10 +1,13 @@
 _repo: Robert-Helmont-Diary-of-a-Recluse-1870-1871_51235
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ensor, Laura
     gutenberg_agent_id: '25378'
     url: http://www.gutenberg.org/2009/agents/25378
+covers:
+- cover_type: archival
+  image_path: 51235-h/images/cover.jpg
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51235#Robert-Helmont-Diary-of-a-Recluse-1870-1871
 gutenberg_issued: '2016-02-16'
 gutenberg_type: Text
 identifiers:

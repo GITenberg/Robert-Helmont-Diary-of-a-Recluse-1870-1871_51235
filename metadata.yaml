@@ -1,0 +1,31 @@
+_repo: Robert-Helmont-Diary-of-a-Recluse-1870-1871_51235
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ensor, Laura
+    gutenberg_agent_id: '25378'
+    url: http://www.gutenberg.org/2009/agents/25378
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: ''
+gutenberg_issued: '2016-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franco-Prussian War, 1870-1871 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Robert Helmont: Diary of a Recluse, 1870-1871'
+url: http://www.gutenberg.org/ebooks/51235
